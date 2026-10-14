@@ -105,7 +105,7 @@ The more real material you mention (projects, experiments, clients, mistakes), t
 
 ## Pairs with
 
-Once you have the plan, [human-in-the-loop-writing](https://github.com/meiluosi/human-in-the-loop-writing) takes one item from it and turns it into a piece you stand behind: research the topic, draft from your own claim and experience, audit it, and learn your editing rules.
+Once you have the plan, [human-in-the-loop-writing](https://github.com/meiluosi/human-in-the-loop-writing) takes one item from it and turns it into a piece you stand behind: research the topic, draft from your own claim and experience, audit it, and learn your editing rules. Then [content-card-designer](https://github.com/meiluosi/content-card-designer) can turn the finished piece into image cards, covers or an avatar: text laid out by a browser, your real assets untouched, and a quality check before export.
 
 ## How well does it work?
 

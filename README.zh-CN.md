@@ -105,7 +105,7 @@ cp -r content-topic-decomposer/skills/content-topic-decomposer ~/.claude/skills/
 
 ## 搭配使用
 
-有了规划之后，[human-in-the-loop-writing](https://github.com/meiluosi/human-in-the-loop-writing) 可以把其中一项写成你愿意署名的文章：研究主题、依据你自己的观点和经历起草、体检，并学习你的修改规则。
+有了规划之后，[human-in-the-loop-writing](https://github.com/meiluosi/human-in-the-loop-writing) 可以把其中一项写成你愿意署名的文章：研究主题、依据你自己的观点和经历起草、体检，并学习你的修改规则。写完之后，[content-card-designer](https://github.com/meiluosi/content-card-designer) 可以把成稿做成图文卡片、封面或头像：文字由浏览器排版，真实素材不动，导出前先质检。
 
 ## 效果如何？
 
