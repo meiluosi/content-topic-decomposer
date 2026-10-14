@@ -105,7 +105,7 @@ The more real material you mention (projects, experiments, clients, mistakes), t
 
 ## Pairs with
 
-Once you have the plan, [human-in-the-loop-writing](https://github.com/meiluosi/human-in-the-loop-writing) takes one item from it and turns it into a piece you stand behind: research the topic, draft from your own claim and experience, audit it, and learn your editing rules. Then [content-card-designer](https://github.com/meiluosi/content-card-designer) can turn the finished piece into image cards, covers or an avatar: text laid out by a browser, your real assets untouched, and a quality check before export.
+If your topic comes from something you are still learning or testing, [research-learning](https://github.com/meiluosi/research-learning) comes first: it teaches an ML/LLM technique, and its real experiment results are the material this skill's case and story slots ask for. Once you have the plan, [human-in-the-loop-writing](https://github.com/meiluosi/human-in-the-loop-writing) takes one item from it and turns it into a piece you stand behind: research the topic, draft from your own claim and experience, audit it, and learn your editing rules. Then [content-card-designer](https://github.com/meiluosi/content-card-designer) can turn the finished piece into image cards, covers or an avatar: text laid out by a browser, your real assets untouched, and a quality check before export.
 
 ## How well does it work?
 
