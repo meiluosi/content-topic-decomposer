@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="1200" height="520" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', Helvetica, Arial, sans-serif" role="img">
+<rect x="0.5" y="0.5" width="1199" height="519" rx="18" fill="#F7F5F0" stroke="#D8D4CC"/>
+<text x="600" y="40" font-size="22" fill="#1F2430" font-weight="700" text-anchor="middle">One experience, several versions</text>
+<rect x="40" y="130" width="280" height="190" rx="14" fill="#FFFFFF" stroke="#1F2430" stroke-width="1.5"/>
+<text x="180" y="180" font-size="22" fill="#1F2430" font-weight="700" text-anchor="middle">One real experience</text>
+<text x="180" y="216" font-size="15" fill="#5B6270" font-weight="400" text-anchor="middle">your facts: goal, steps,</text>
+<text x="180" y="240" font-size="15" fill="#5B6270" font-weight="400" text-anchor="middle">numbers, mistakes, the moment</text>
+<text x="180" y="264" font-size="15" fill="#5B6270" font-weight="400" text-anchor="middle">you remember most</text>
+<rect x="400" y="64" width="440" height="100" rx="14" fill="#FFFFFF" stroke="#D8D4CC"/>
+<rect x="400" y="64" width="10" height="100" rx="5" fill="#2F6FDE"/>
+<text x="428" y="98" font-size="22" fill="#2F6FDE" font-weight="700" text-anchor="start">Tutorial</text>
+<text x="428" y="126" font-size="15" fill="#1F2430" font-weight="400" text-anchor="start">Protagonist: the reader</text>
+<text x="428" y="148" font-size="15" fill="#5B6270" font-weight="400" text-anchor="start">Opens with the outcome they want</text>
+<path d="M320 225 C 360 225, 360 114, 396 114" fill="none" stroke="#2F6FDE" stroke-width="2.5"/>
+<path d="M396 114 l-9 -5 v10 z" fill="#2F6FDE"/>
+<rect x="400" y="176" width="440" height="100" rx="14" fill="#FFFFFF" stroke="#D8D4CC"/>
+<rect x="400" y="176" width="10" height="100" rx="5" fill="#1F9D6B"/>
+<text x="428" y="210" font-size="22" fill="#1F9D6B" font-weight="700" text-anchor="start">Case</text>
+<text x="428" y="238" font-size="15" fill="#1F2430" font-weight="400" text-anchor="start">Protagonist: the project</text>
+<text x="428" y="260" font-size="15" fill="#5B6270" font-weight="400" text-anchor="start">Starting state, steps, numbers, limits</text>
+<path d="M320 225 C 360 225, 360 226, 396 226" fill="none" stroke="#1F9D6B" stroke-width="2.5"/>
+<path d="M396 226 l-9 -5 v10 z" fill="#1F9D6B"/>
+<rect x="400" y="288" width="440" height="100" rx="14" fill="#FFFFFF" stroke="#D8D4CC"/>
+<rect x="400" y="288" width="10" height="100" rx="5" fill="#C2255C"/>
+<text x="428" y="322" font-size="22" fill="#C2255C" font-weight="700" text-anchor="start">Story</text>
+<text x="428" y="350" font-size="15" fill="#1F2430" font-weight="400" text-anchor="start">Protagonist: you</text>
+<text x="428" y="372" font-size="15" fill="#5B6270" font-weight="400" text-anchor="start">One scene, one feeling, one change</text>
+<path d="M320 225 C 360 225, 360 338, 396 338" fill="none" stroke="#C2255C" stroke-width="2.5"/>
+<path d="M396 338 l-9 -5 v10 z" fill="#C2255C"/>
+<rect x="890" y="110" width="270" height="100" rx="14" fill="#FFFFFF" stroke="#D8D4CC"/>
+<rect x="890" y="110" width="10" height="100" rx="5" fill="#D9480F"/>
+<text x="918" y="144" font-size="19" fill="#D9480F" font-weight="700" text-anchor="start">Opinion (optional)</text>
+<text x="918" y="172" font-size="15" fill="#1F2430" font-weight="400" text-anchor="start">Belief  &gt;  stance  &gt;  where it fails</text>
+<rect x="890" y="250" width="270" height="100" rx="14" fill="#FFFFFF" stroke="#D8D4CC"/>
+<rect x="890" y="250" width="10" height="100" rx="5" fill="#7048E8"/>
+<text x="918" y="284" font-size="19" fill="#7048E8" font-weight="700" text-anchor="start">Resource (optional)</text>
+<text x="918" y="312" font-size="15" fill="#1F2430" font-weight="400" text-anchor="start">The checklist / template itself</text>
+<text x="600" y="424" font-size="17" fill="#5B6270" font-weight="600" text-anchor="middle">Then fan out by format, each with its own hook</text>
+<rect x="60" y="440" width="230" height="46" rx="23" fill="#FFFFFF" stroke="#1F2430"/>
+<text x="175" y="469" font-size="18" fill="#1F2430" font-weight="600" text-anchor="middle">Long article</text>
+<text x="305" y="470" font-size="24" fill="#5B6270" font-weight="700" text-anchor="middle">&gt;</text>
+<rect x="330" y="440" width="230" height="46" rx="23" fill="#FFFFFF" stroke="#1F2430"/>
+<text x="445" y="469" font-size="18" fill="#1F2430" font-weight="600" text-anchor="middle">Graphic post</text>
+<text x="575" y="470" font-size="24" fill="#5B6270" font-weight="700" text-anchor="middle">&gt;</text>
+<rect x="600" y="440" width="230" height="46" rx="23" fill="#FFFFFF" stroke="#1F2430"/>
+<text x="715" y="469" font-size="18" fill="#1F2430" font-weight="600" text-anchor="middle">Short video</text>
+<text x="845" y="470" font-size="24" fill="#5B6270" font-weight="700" text-anchor="middle">&gt;</text>
+<rect x="870" y="440" width="230" height="46" rx="23" fill="#FFFFFF" stroke="#1F2430"/>
+<text x="985" y="469" font-size="18" fill="#1F2430" font-weight="600" text-anchor="middle">Livestream</text>
+</svg>

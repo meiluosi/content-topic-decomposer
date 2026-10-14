@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" width="1200" height="500" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', Helvetica, Arial, sans-serif" role="img">
+<rect x="0.5" y="0.5" width="1199" height="499" rx="18" fill="#F7F5F0" stroke="#D8D4CC"/>
+<text x="600" y="40" font-size="22" fill="#1F2430" font-weight="700" text-anchor="middle">同一个主题，结构均衡</text>
+<rect x="40" y="64" width="540" height="410" rx="14" fill="#FFFFFF" stroke="#D8D4CC"/>
+<text x="60" y="100" font-size="20" fill="#1F2430" font-weight="700" text-anchor="start">之前：只发干货 / 技巧</text>
+<text x="227" y="140" font-size="13" fill="#5B6270" font-weight="600" text-anchor="middle">不认识你</text>
+<text x="325" y="140" font-size="13" fill="#5B6270" font-weight="600" text-anchor="middle">刚了解</text>
+<text x="423" y="140" font-size="13" fill="#5B6270" font-weight="600" text-anchor="middle">准备行动</text>
+<text x="521" y="140" font-size="13" fill="#5B6270" font-weight="600" text-anchor="middle">已经在用</text>
+<text x="60" y="187" font-size="16" fill="#2F6FDE" font-weight="700" text-anchor="start">教程</text>
+<rect x="180" y="156" width="94" height="50" rx="10" fill="none" stroke="#D8D4CC" stroke-dasharray="5 4"/>
+<rect x="278" y="156" width="94" height="50" rx="10" fill="#2F6FDE" fill-opacity="0.88"/>
+<rect x="376" y="156" width="94" height="50" rx="10" fill="none" stroke="#D8D4CC" stroke-dasharray="5 4"/>
+<rect x="474" y="156" width="94" height="50" rx="10" fill="#2F6FDE" fill-opacity="0.88"/>
+<text x="60" y="245" font-size="16" fill="#1F9D6B" font-weight="700" text-anchor="start">案例</text>
+<rect x="180" y="214" width="94" height="50" rx="10" fill="none" stroke="#D8D4CC" stroke-dasharray="5 4"/>
+<rect x="278" y="214" width="94" height="50" rx="10" fill="none" stroke="#D8D4CC" stroke-dasharray="5 4"/>
+<rect x="376" y="214" width="94" height="50" rx="10" fill="none" stroke="#D8D4CC" stroke-dasharray="5 4"/>
+<rect x="474" y="214" width="94" height="50" rx="10" fill="none" stroke="#D8D4CC" stroke-dasharray="5 4"/>
+<text x="60" y="303" font-size="16" fill="#D9480F" font-weight="700" text-anchor="start">观点</text>
+<rect x="180" y="272" width="94" height="50" rx="10" fill="none" stroke="#D8D4CC" stroke-dasharray="5 4"/>
+<rect x="278" y="272" width="94" height="50" rx="10" fill="none" stroke="#D8D4CC" stroke-dasharray="5 4"/>
+<rect x="376" y="272" width="94" height="50" rx="10" fill="none" stroke="#D8D4CC" stroke-dasharray="5 4"/>
+<rect x="474" y="272" width="94" height="50" rx="10" fill="none" stroke="#D8D4CC" stroke-dasharray="5 4"/>
+<text x="60" y="361" font-size="16" fill="#C2255C" font-weight="700" text-anchor="start">故事</text>
+<rect x="180" y="330" width="94" height="50" rx="10" fill="none" stroke="#D8D4CC" stroke-dasharray="5 4"/>
+<rect x="278" y="330" width="94" height="50" rx="10" fill="none" stroke="#D8D4CC" stroke-dasharray="5 4"/>
+<rect x="376" y="330" width="94" height="50" rx="10" fill="none" stroke="#D8D4CC" stroke-dasharray="5 4"/>
+<rect x="474" y="330" width="94" height="50" rx="10" fill="none" stroke="#D8D4CC" stroke-dasharray="5 4"/>
+<text x="60" y="419" font-size="16" fill="#7048E8" font-weight="700" text-anchor="start">资源</text>
+<rect x="180" y="388" width="94" height="50" rx="10" fill="none" stroke="#D8D4CC" stroke-dasharray="5 4"/>
+<rect x="278" y="388" width="94" height="50" rx="10" fill="none" stroke="#D8D4CC" stroke-dasharray="5 4"/>
+<rect x="376" y="388" width="94" height="50" rx="10" fill="none" stroke="#D8D4CC" stroke-dasharray="5 4"/>
+<rect x="474" y="388" width="94" height="50" rx="10" fill="none" stroke="#D8D4CC" stroke-dasharray="5 4"/>
+<text x="60" y="454" font-size="14" fill="#5B6270" font-weight="400" text-anchor="start">陌生人没理由停下，也没有任何东西证明有效。</text>
+<rect x="620" y="64" width="540" height="410" rx="14" fill="#FFFFFF" stroke="#D8D4CC"/>
+<text x="640" y="100" font-size="20" fill="#1F2430" font-weight="700" text-anchor="start">之后：每种类型、每个阶段都有</text>
+<text x="807" y="140" font-size="13" fill="#5B6270" font-weight="600" text-anchor="middle">不认识你</text>
+<text x="905" y="140" font-size="13" fill="#5B6270" font-weight="600" text-anchor="middle">刚了解</text>
+<text x="1003" y="140" font-size="13" fill="#5B6270" font-weight="600" text-anchor="middle">准备行动</text>
+<text x="1101" y="140" font-size="13" fill="#5B6270" font-weight="600" text-anchor="middle">已经在用</text>
+<text x="640" y="187" font-size="16" fill="#2F6FDE" font-weight="700" text-anchor="start">教程</text>
+<rect x="760" y="156" width="94" height="50" rx="10" fill="#2F6FDE" fill-opacity="0.88"/>
+<rect x="858" y="156" width="94" height="50" rx="10" fill="#2F6FDE" fill-opacity="0.88"/>
+<rect x="956" y="156" width="94" height="50" rx="10" fill="#2F6FDE" fill-opacity="0.88"/>
+<rect x="1054" y="156" width="94" height="50" rx="10" fill="#2F6FDE" fill-opacity="0.88"/>
+<text x="640" y="245" font-size="16" fill="#1F9D6B" font-weight="700" text-anchor="start">案例</text>
+<rect x="760" y="214" width="94" height="50" rx="10" fill="#1F9D6B" fill-opacity="0.88"/>
+<rect x="858" y="214" width="94" height="50" rx="10" fill="#1F9D6B" fill-opacity="0.88"/>
+<rect x="956" y="214" width="94" height="50" rx="10" fill="#1F9D6B" fill-opacity="0.88"/>
+<rect x="1054" y="214" width="94" height="50" rx="10" fill="#1F9D6B" fill-opacity="0.88"/>
+<text x="640" y="303" font-size="16" fill="#D9480F" font-weight="700" text-anchor="start">观点</text>
+<rect x="760" y="272" width="94" height="50" rx="10" fill="#D9480F" fill-opacity="0.88"/>
+<rect x="858" y="272" width="94" height="50" rx="10" fill="none" stroke="#D8D4CC" stroke-dasharray="5 4"/>
+<rect x="956" y="272" width="94" height="50" rx="10" fill="#D9480F" fill-opacity="0.88"/>
+<rect x="1054" y="272" width="94" height="50" rx="10" fill="#D9480F" fill-opacity="0.88"/>
+<text x="640" y="361" font-size="16" fill="#C2255C" font-weight="700" text-anchor="start">故事</text>
+<rect x="760" y="330" width="94" height="50" rx="10" fill="#C2255C" fill-opacity="0.88"/>
+<rect x="858" y="330" width="94" height="50" rx="10" fill="#C2255C" fill-opacity="0.88"/>
+<rect x="956" y="330" width="94" height="50" rx="10" fill="#C2255C" fill-opacity="0.88"/>
+<rect x="1054" y="330" width="94" height="50" rx="10" fill="none" stroke="#D8D4CC" stroke-dasharray="5 4"/>
+<text x="640" y="419" font-size="16" fill="#7048E8" font-weight="700" text-anchor="start">资源</text>
+<rect x="760" y="388" width="94" height="50" rx="10" fill="none" stroke="#D8D4CC" stroke-dasharray="5 4"/>
+<rect x="858" y="388" width="94" height="50" rx="10" fill="#7048E8" fill-opacity="0.88"/>
+<rect x="956" y="388" width="94" height="50" rx="10" fill="#7048E8" fill-opacity="0.88"/>
+<rect x="1054" y="388" width="94" height="50" rx="10" fill="#7048E8" fill-opacity="0.88"/>
+<text x="640" y="454" font-size="14" fill="#5B6270" font-weight="400" text-anchor="start">有入口、有证据、有立场、有人味、有可收藏的东西。</text>
+<text x="600" y="290" font-size="40" fill="#5B6270" font-weight="700" text-anchor="middle">&gt;</text>
+</svg>
