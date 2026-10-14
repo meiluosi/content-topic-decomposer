@@ -103,6 +103,10 @@ Just describe your topic and what you publish. For example:
 
 The more real material you mention (projects, experiments, clients, mistakes), the more specific the case and story slots become. You can name a platform (Xiaohongshu, WeChat official account, Instagram, Substack, a blog) and it will adapt; if you don't, it stays at the format level.
 
+## Pairs with
+
+Once you have the plan, [human-in-the-loop-writing](https://github.com/meiluosi/human-in-the-loop-writing) takes one item from it and turns it into a piece you stand behind: research the topic, draft from your own claim and experience, audit it, and learn your editing rules.
+
 ## How well does it work?
 
 Honest answer: only small tests so far. The first version was compared with plain Claude (no skill) on three prompts: a Chinese technical topic, an English health topic, and a reuse-one-experience request. On a checklist written by the author (all five types covered, stage and format tags, coverage check, reuse chains, no invented experience, correct language), the skill passed 21 of 21 checks and plain Claude passed 11 of 21. Plain Claude's answers were useful, but organised by sub-topic, with no stage tags, coverage check or reuse chain.

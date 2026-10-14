@@ -103,6 +103,10 @@ cp -r content-topic-decomposer/skills/content-topic-decomposer ~/.claude/skills/
 
 你提供的真实素材（项目、实验、客户、踩过的坑）越多，案例和故事的空位就越具体。你可以说出平台（小红书、公众号、Instagram、Substack、博客），它会按平台调整；不说的话，就只停留在形式层面。
 
+## 搭配使用
+
+有了规划之后，[human-in-the-loop-writing](https://github.com/meiluosi/human-in-the-loop-writing) 可以把其中一项写成你愿意署名的文章：研究主题、依据你自己的观点和经历起草、体检，并学习你的修改规则。
+
 ## 效果如何？
 
 诚实地说：目前只做过小规模测试。我把第一版 skill 和不带 skill 的 Claude 放在三个问题上对比：一个中文技术主题、一个英文健康主题、一个"复用一段经历"的请求。用作者自己写的检查清单打分（五种类型都覆盖、阶段和形式标注、覆盖检查、复用链、不编造经历、语言正确），带 skill 的版本通过 21 项中的 21 项，不带 skill 的通过 21 项中的 11 项。不带 skill 的回答也有用，但按子主题组织，没有阶段标注、覆盖检查和复用链。
